@@ -1,3 +1,3 @@
 # Viaggiare Page
 
-Página web minimalista inspirada em um breve guia de viagem aos principais pontos e locais visitados na Itália.
+Página web minimalista inspirada em um breve guia de viagem, apresentando possíveis locais e pontos turísticos a serem visitados na Itália.
